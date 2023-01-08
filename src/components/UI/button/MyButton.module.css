@@ -1,0 +1,12 @@
+.btn {
+  margin: 0px 5px;
+  width: 30px;
+  height: 30px;
+}
+.btn > img {
+  width: 100%;
+  height: auto;
+}
+a {
+  display: inline-block;
+}

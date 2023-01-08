@@ -1,0 +1,36 @@
+.todo__item {
+  width: 300px;
+  display: flex;
+
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  padding: 10px 15px;
+  margin: 15px auto;
+  border-radius: 5px;
+}
+.peach {
+  background-color: #fed6bc;
+}
+.sky {
+  background-color: #c6d8ff;
+}
+.pink {
+  background-color: #fdeed9;
+}
+.button {
+  display: flex;
+  align-items: center;
+}
+.info {
+  max-width: 120px;
+  font-size: 20px;
+  font-weight: 100;
+  word-wrap: break-word;
+  text-align: start;
+}
+.completed {
+  background-color: #c3fbd8;
+  text-decoration: line-through 1px #3a3a3a;
+  color: #3a3a3a;
+}

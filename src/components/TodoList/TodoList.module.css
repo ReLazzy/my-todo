@@ -1,0 +1,13 @@
+.todo_list {
+  padding-top: 10px;
+}
+.todo_empty_title {
+  margin: 20px auto;
+  width: 300px;
+  padding: 16px;
+  background-color: #fed6bc;
+  color: white;
+  border-radius: 5px;
+  font-weight: normal;
+  text-transform: lowercase;
+}
